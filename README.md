@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 I'm a Systems Information student from Brazil, currently learning and improving my skills in various programming languages.
 
